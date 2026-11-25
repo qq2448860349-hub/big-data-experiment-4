@@ -1,0 +1,20 @@
+{
+  "source": "Self-created synthetic shopping baskets for teaching",
+  "seed": 20261118,
+  "transactions": 30000,
+  "goods": [
+    "apple",
+    "banana",
+    "bread",
+    "butter",
+    "coffee",
+    "diaper",
+    "eggs",
+    "juice",
+    "milk",
+    "rice",
+    "tea",
+    "yogurt"
+  ],
+  "sha256": "e20e745059fd72bdb88357fc93b65bd8cbe72b37d010f7bf0c1e739984b78c6b"
+}
